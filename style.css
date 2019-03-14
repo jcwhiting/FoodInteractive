@@ -1,0 +1,155 @@
+.counties {
+  fill: none;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.BeefCows {
+	opacity: 0.75;
+	fill:  	#2E8B57;
+}
+
+.MilkCows {
+	opacity: 0.75;
+	fill: #FF8C00;
+}
+
+/*circle:hover{
+	fill: white;
+}
+*/
+
+.tooltip{
+	fill:#ddd;
+	text-anchor:end;
+}
+
+.legend circle {
+  fill: none;
+  stroke: #ccc;
+}
+
+.legend text {
+  fill: #777;
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.pigs{
+	opacity: 0.75;
+	fill:rbga(254, 127, 156, .5);
+}
+
+.sheep{
+	opacity:0.75;
+	fill:;
+}
+
+.eggsChix{
+	opacity:0.75;
+	fill:;
+}
+
+.meatChix{
+	opacity:0.75;
+	fill:;
+}
+
+.wheat{
+	opacity:0.75;
+	fill:;
+}
+
+.cornGrain{
+	opacity:0.75;
+	fill:rbga(255, 195, 0, .5);
+}
+
+.cornSilage{
+	opacity:0.75;
+	fill:;
+}
+
+.oats{
+	opacity:0.75;
+	fill:;
+}
+
+.barley{
+	opacity:0.75;
+	fill:;
+}
+
+.Sorghum{
+	opacity:0.75;
+	fill:;
+}
+
+.sorghumSilage{
+	opacity:0.75;
+	fill:;
+}
+
+.soybeans{
+	opacity:0.75;
+	fill:;
+}
+
+.dryBeans{
+	opacity:0.75;
+	fill:;
+}
+
+.cotton{
+	opacity:0.75;
+	fill:;
+}
+
+.tobacco{
+	opacity:0.75;
+	fill:;
+}
+
+.hay{
+	opacity:0.75;
+	fill:;
+}
+
+.rice{
+	opacity:0.75;
+	fill:;
+}
+
+.sunflower{
+	opacity:0.75;
+	fill:;
+}
+
+.sugarBeets{
+	opacity:0.75;
+	fill:;
+}
+
+.sugarcane{
+	opacity:0.75;
+	fill:;
+}
+
+.peanuts{
+	opacity:0.75;
+	fill:;
+}
+
+.vegetables{
+	opacity:0.75;
+	fill:;
+}
+
+.orchards{
+	opacity:0.75;
+	fill:;
+}
