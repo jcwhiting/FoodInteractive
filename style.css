@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+body {background-color: #e2f2c4;}
+
+h1 {
+	font-family: 'Dosis', sans-serif;
+}
+
+p {
+	font-family: 'Dosis', sans-serif;
+}
+
+.textHole {
+	font-family: 'Dosis', sans-serif;
+}
+
+.textBox {
+	font-family: 'Dosis', sans-serif;
+}
+
+div#dropdown {
+	font-family: 'Dosis', sans-serif;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+
+
+
